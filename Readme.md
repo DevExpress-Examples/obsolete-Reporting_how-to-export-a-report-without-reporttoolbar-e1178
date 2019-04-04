@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/ExportWithoutToolbar/Default.aspx) (VB: [Default.aspx.vb](./VB/ExportWithoutToolbar/Default.aspx.vb))
+* [Default.aspx](./CS/ExportWithoutToolbar/Default.aspx) (VB: [Default.aspx](./VB/ExportWithoutToolbar/Default.aspx))
 * [Default.aspx.cs](./CS/ExportWithoutToolbar/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ExportWithoutToolbar/Default.aspx.vb))
 * [XtraReport1.cs](./CS/ExportWithoutToolbar/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/ExportWithoutToolbar/XtraReport1.vb))
 <!-- default file list end -->
